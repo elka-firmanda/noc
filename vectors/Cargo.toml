@@ -1,0 +1,6 @@
+[package]
+name = "vectors"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
